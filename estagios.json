@@ -91,7 +91,8 @@
       "Dados e assinaturas conferidos",
       "Solicitação de matrícula em Estágio Supervisionado entregue à Coordenação",
       "Documentação encaminhada para homologação"
-    ]
+    ],
+    "official_period": "03/08/2026 a 05/12/2026"
   },
   "non_mandatory": {
     "title": "Estágio Não Obrigatório",
@@ -212,15 +213,45 @@
   ],
   "semester_orientation": {
     "semester": "2026-2",
-    "title": "Orientações — Estágio Supervisionado 2026-2",
-    "url": "https://rodrigotadm-sketch.github.io/Est-gio/orientacoes-estagio-2026-2.pdf",
+    "title": "Orientações — Estágio Supervisionado Obrigatório I ou II — 2026-2",
+    "url": "orientacoes-estagio-2026-2.pdf",
     "active": true,
-    "note": "orientacoes-estagio-2026-2.pdf"
+    "note": "Documento oficial da Coordenação do Curso de Biomedicina — Informações nº 5 e nº 6/2026."
   },
   "contact": {
     "course_email": "biomedicina@ufpr.br",
     "course_phone": "(41) 3361-1744",
     "internship_unit_email": "estagio@ufpr.br",
     "internship_unit_phone": "(41) 3310-2675"
+  },
+  "important_deadlines": {
+    "semester": "2026-2",
+    "title": "Prazos importantes — 2026-2",
+    "items": [
+      {
+        "date": "11/12/2026",
+        "title": "Entrega da documentação final — período regular",
+        "description": "Estudantes matriculados em disciplina regular de estágio devem encaminhar os documentos ao docente orientador e à Coordenação pelo e-mail biomedicina@ufpr.br até esta data.",
+        "priority": "alta"
+      },
+      {
+        "date": "Até 1 semana após o encerramento",
+        "title": "Entrega — estágio em período especial",
+        "description": "Para estágio em período especial, o relatório e a ficha de avaliação da supervisão devem ser entregues até uma semana após a data prevista para o encerramento da atividade.",
+        "priority": "alta"
+      },
+      {
+        "date": "19/12/2026",
+        "title": "Lançamento de média final e frequência",
+        "description": "Prazo indicado para o Professor Orientador lançar a média final e a frequência do estudante no sistema, conforme o calendário acadêmico.",
+        "priority": "media"
+      },
+      {
+        "date": "23/02/2027",
+        "title": "Prazo-limite — período especial do 2º semestre de 2026",
+        "description": "Prazo-limite indicado para estágio em período especial referente ao segundo semestre de 2026.",
+        "priority": "media"
+      }
+    ]
   }
 }

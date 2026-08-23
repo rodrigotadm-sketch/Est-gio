@@ -28,3 +28,17 @@ body{margin:0;background:var(--bg);font:15px/1.5 Arial,sans-serif;color:var(--in
 .note{font-size:12px;color:var(--muted);margin-top:8px}
 @media(max-width:950px){.flow{grid-template-columns:repeat(2,1fr)}.quick{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:700px){.flow,.quick,.resp-grid,.two-col,.docs,.laws,.links{grid-template-columns:1fr}.hero h1{font-size:28px}}
+
+
+.deadline-section{background:#fffdf7;border:1px solid #eadfbf;border-radius:14px;padding:16px}
+.deadline-section h2{color:#8b5c00}
+.deadline-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:11px}
+.deadline{background:#fff;border:1px solid #eadfbf;border-radius:12px;padding:14px}
+.deadline.high{border-left:5px solid #c97a00}
+.deadline-date{display:inline-block;background:#fff3d6;color:#8b5c00;font-weight:900;font-size:13px;padding:4px 8px;border-radius:20px;margin-bottom:8px}
+.deadline h3{margin:0 0 5px;font-size:16px;color:#6a4a0a}
+.deadline p{margin:0;color:#4e4a3f;font-size:13px}
+.deadline-doc{margin-top:12px;background:#fff3d6;border-radius:9px;padding:10px}
+.deadline-doc a{color:#176b3a;font-weight:800;text-decoration:none}
+.period-info{margin-top:8px;font-size:13px;color:#365642}
+@media(max-width:700px){.deadline-grid{grid-template-columns:1fr}}

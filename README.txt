@@ -27,3 +27,11 @@ Fontes institucionais usadas:
 - UE/COAPPE/PROGRAP
 - Perguntas Frequentes da Unidade de Estágios
 - PPC do Curso de Biomedicina
+
+
+ATUALIZAÇÃO 2026-2
+- Incluído quadro 'Prazos importantes — 2026-2'.
+- Incluído PDF oficial orientacoes-estagio-2026-2.pdf.
+- Prazo regular: 11/12/2026.
+- Lançamento de média/frequência: 19/12/2026.
+- Período especial: entrega em até uma semana após encerramento; limite indicado 23/02/2027.

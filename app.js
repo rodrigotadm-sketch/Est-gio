@@ -13,6 +13,21 @@ root.innerHTML=`
  ${D.quick_links.map(x=>`<a href="${esc(x.url||x.target)}" ${x.url?'target="_blank" rel="noopener"':''}>${esc(x.label)}</a>`).join('')}
 </div>
 
+${D.important_deadlines?`<section class="section deadline-section">
+ <h2>⚠️ ${esc(D.important_deadlines.title)}</h2>
+ <div class="deadline-grid">
+  ${D.important_deadlines.items.map(x=>`<article class="deadline ${x.priority==='alta'?'high':''}">
+    <div class="deadline-date">${esc(x.date)}</div>
+    <h3>${esc(x.title)}</h3>
+    <p>${esc(x.description)}</p>
+  </article>`).join('')}
+ </div>
+ <div class="deadline-doc">
+  <strong>Documento oficial:</strong>
+  <a href="${esc(D.semester_orientation.url)}" target="_blank" rel="noopener">${esc(D.semester_orientation.title)}</a>
+ </div>
+</section>`:''}
+
 <section class="section">
  <h2>Vai iniciar um estágio? Comece por aqui</h2>
  <div class="flow">${D.flow.map(s=>`<article class="step"><div class="num">${esc(s.step)}</div><h3>${esc(s.title)}</h3><p>${esc(s.text)}</p></article>`).join('')}</div>
@@ -26,7 +41,7 @@ root.innerHTML=`
 <section class="section" id="obrigatorio">
  <h2>${esc(D.mandatory.title)}</h2>
  <div class="panel">
-  <div class="hours"><div class="big-number">${D.mandatory.hours} h</div><div>carga horária mínima de estágio obrigatório do Curso de Biomedicina</div></div>
+  <div class="hours"><div class="big-number">${D.mandatory.hours} h</div><div>carga horária mínima de estágio obrigatório do Curso de Biomedicina</div>${D.mandatory.official_period?`<div class="period-info"><b>Período regular 2026-2:</b> ${esc(D.mandatory.official_period)}</div>`:''}</div>
   <div>${esc(D.mandatory.description)}</div>
   <h3>Checklist antes de começar</h3>
   <div class="checklist">${D.mandatory.checklist.map(x=>`<div class="check"><span class="box"></span><span>${esc(x)}</span></div>`).join('')}</div>
