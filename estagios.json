@@ -1,0 +1,226 @@
+{
+  "title": "ESTÁGIOS — BIOMEDICINA UFPR",
+  "subtitle": "Orientações para estágio obrigatório e não obrigatório",
+  "semester": "2026-2",
+  "coordination_email": "biomedicina@ufpr.br",
+  "mandatory_hours": 500,
+  "intro": "A Unidade de Estágios da COAPPE/PROGRAP é responsável pela avaliação pedagógica, cadastro e homologação dos estágios realizados por estudantes da UFPR. No Curso de Biomedicina, a Comissão Orientadora de Estágios (COE) organiza, orienta e acompanha os procedimentos acadêmicos.",
+  "quick_links": [
+    {
+      "label": "Estágio Obrigatório",
+      "target": "#obrigatorio"
+    },
+    {
+      "label": "Estágio Não Obrigatório",
+      "target": "#nao-obrigatorio"
+    },
+    {
+      "label": "Documentos e Formulários",
+      "target": "#documentos"
+    },
+    {
+      "label": "Comissão de Estágios — COE",
+      "url": "https://rodrigotadm-sketch.github.io/COE--Biomedicina/"
+    }
+  ],
+  "flow": [
+    {
+      "step": "1",
+      "title": "Defina a modalidade e o local",
+      "text": "Escolha a área de interesse e verifique a disponibilidade e o aceite do campo de estágio."
+    },
+    {
+      "step": "2",
+      "title": "Defina supervisor e orientador",
+      "text": "O supervisor acompanha as atividades no local de estágio; o orientador é docente da UFPR responsável pelo acompanhamento pedagógico."
+    },
+    {
+      "step": "3",
+      "title": "Prepare a documentação",
+      "text": "Preencha o Termo de Compromisso de Estágio, o Plano de Atividades e os demais documentos aplicáveis à modalidade escolhida."
+    },
+    {
+      "step": "4",
+      "title": "Colete as assinaturas",
+      "text": "Confira todos os dados antes de recolher assinaturas. A documentação deve estar formalizada antes do início das atividades."
+    },
+    {
+      "step": "5",
+      "title": "Encaminhamento e homologação",
+      "text": "A Coordenação encaminha a documentação pelo SEI para a UE/COAPPE/PROGRAP, responsável pela homologação e cadastro."
+    },
+    {
+      "step": "6",
+      "title": "Realize e acompanhe o estágio",
+      "text": "Cumpra as atividades e mantenha controle de frequência e documentação de acompanhamento."
+    },
+    {
+      "step": "7",
+      "title": "Finalize e entregue os documentos",
+      "text": "Ao término, envie relatórios, avaliações e frequência conforme as orientações do curso."
+    }
+  ],
+  "responsibilities": [
+    {
+      "area": "Estágio em Análises Clínicas",
+      "responsible": "Aline Borsato Hauser",
+      "department": "Análises Clínicas"
+    },
+    {
+      "area": "Estágio Externo — exceto Análises Clínicas",
+      "responsible": "Djanira Aparecida da Luz Veronez",
+      "department": "Anatomia"
+    },
+    {
+      "area": "Estágio Interno — âmbito da UFPR",
+      "responsible": "Jaqueline Carvalho de Oliveira",
+      "department": "Genética"
+    }
+  ],
+  "mandatory": {
+    "title": "Estágio Supervisionado Obrigatório",
+    "hours": 500,
+    "description": "O estágio obrigatório integra o currículo do Curso de Biomedicina. Para realizá-lo, o estudante deve cumprir os requisitos acadêmicos do curso, formalizar a documentação antes do início das atividades e cumprir a carga horária mínima estabelecida.",
+    "checklist": [
+      "Área e local de estágio definidos",
+      "Aceite do local de estágio obtido",
+      "Supervisor do local definido",
+      "Professor orientador UFPR definido",
+      "Termo de Compromisso de Estágio preenchido",
+      "Plano de Atividades preenchido e detalhado",
+      "Dados e assinaturas conferidos",
+      "Solicitação de matrícula em Estágio Supervisionado entregue à Coordenação",
+      "Documentação encaminhada para homologação"
+    ]
+  },
+  "non_mandatory": {
+    "title": "Estágio Não Obrigatório",
+    "description": "O estágio não obrigatório é uma atividade opcional. O estudante deve manter matrícula regular, desempenho acadêmico e frequência satisfatórios, além de providenciar a documentação e a homologação antes do início das atividades. Diferentemente do estágio obrigatório, não há solicitação de matrícula na disciplina de estágio.",
+    "notes": [
+      "A realização de estágio não obrigatório não substitui o estágio obrigatório curricular.",
+      "A unidade concedente deve fornecer bolsa-auxílio e auxílio-transporte na modalidade não obrigatória, conforme a legislação aplicável.",
+      "Ao final, devem ser apresentados Relatório Final e Ficha de Avaliação para os procedimentos de certificação."
+    ]
+  },
+  "before_start": {
+    "title": "Antes de iniciar",
+    "items": [
+      "Procure a Coordenação do Curso e verifique se você atende aos requisitos acadêmicos para o estágio.",
+      "Providencie a documentação com antecedência. A UE/COAPPE recomenda pelo menos 10 dias antes do início das atividades.",
+      "O Termo de Compromisso de Estágio deve estar formalizado antes do início das atividades.",
+      "Confira cuidadosamente datas, carga horária, supervisor, orientador, concedente e demais informações antes de recolher assinaturas."
+    ]
+  },
+  "during": {
+    "title": "Durante o estágio",
+    "items": [
+      "Mantenha o controle de frequência atualizado.",
+      "Realize as atividades previstas no Plano de Atividades.",
+      "Mantenha contato com o orientador UFPR e o supervisor do local.",
+      "Relatórios parciais devem ser apresentados a cada 6 meses quando aplicável."
+    ]
+  },
+  "finalization": {
+    "title": "Ao final do estágio obrigatório",
+    "student": [
+      "Relatório Final de Estágio institucional",
+      "Relatório Final do Estudante — modelo do Curso de Biomedicina",
+      "Folha de frequência devidamente assinada"
+    ],
+    "supervisor": [
+      "Ficha de Avaliação institucional",
+      "Ficha de Avaliação do local de estágio — modelo do Curso de Biomedicina"
+    ],
+    "submission": "O estudante deve enviar à Coordenação, pelo e-mail biomedicina@ufpr.br, os documentos assinados. A Coordenação encaminha a documentação para apreciação da COE e tramitação institucional."
+  },
+  "documents": [
+    {
+      "name": "Formulários de Estágio — UE/COAPPE",
+      "description": "Página oficial com os formulários eletrônicos e documentos atuais de estágio da UFPR.",
+      "url": "https://prograp.ufpr.br/coafe/ue/formularios/",
+      "category": "UFPR"
+    },
+    {
+      "name": "Manual de Estágios da UFPR",
+      "description": "Orientações gerais sobre procedimentos, documentação e tramitação.",
+      "url": "https://prograp.ufpr.br/coafe/apresentacao-estagios/",
+      "category": "UFPR"
+    },
+    {
+      "name": "Solicitação de matrícula em Estágio Supervisionado",
+      "description": "Documento específico do Curso de Biomedicina. Consulte a página de formulários da Coordenação.",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "category": "Biomedicina"
+    },
+    {
+      "name": "Relatório Final do Estudante",
+      "description": "Modelo específico do Curso de Biomedicina disponível na central de formulários.",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "category": "Biomedicina"
+    },
+    {
+      "name": "Ficha de Avaliação — local de estágio",
+      "description": "Modelo específico do Curso de Biomedicina disponível na central de formulários.",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "category": "Biomedicina"
+    },
+    {
+      "name": "Perguntas Frequentes — Estágios UFPR",
+      "description": "Dúvidas frequentes sobre estágio obrigatório, não obrigatório, supervisor, orientador, seguro, relatórios e certificação.",
+      "url": "https://prograp.ufpr.br/coafe/ue/perguntas-frequentes/",
+      "category": "UFPR"
+    }
+  ],
+  "legislation": [
+    {
+      "name": "Lei Federal nº 11.788/2008",
+      "description": "Lei Federal do Estágio.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm"
+    },
+    {
+      "name": "Legislação de Estágios — UE/COAPPE",
+      "description": "Resoluções e instruções normativas da UFPR aplicáveis aos estágios.",
+      "url": "https://prograp.ufpr.br/coafe/ue/legislacao/"
+    },
+    {
+      "name": "Resolução nº 46/10 — CEPE",
+      "description": "Normatização institucional relacionada aos estágios e à Comissão Orientadora de Estágio.",
+      "url": "https://prograp.ufpr.br/coafe/ue/legislacao/"
+    }
+  ],
+  "institutional_links": [
+    {
+      "name": "UE/COAPPE — Estágios",
+      "url": "https://prograp.ufpr.br/coafe/apresentacao-estagios/",
+      "description": "Unidade responsável por avaliação pedagógica, cadastro e homologação dos estágios."
+    },
+    {
+      "name": "COAPPE — PROGRAP",
+      "url": "https://prograp.ufpr.br/coafe/",
+      "description": "Coordenação de Apoio a Projetos, Programas e Estágios."
+    },
+    {
+      "name": "Comissão Orientadora de Estágios — COE",
+      "url": "https://rodrigotadm-sketch.github.io/COE--Biomedicina/",
+      "description": "Composição e informações da COE do Curso de Biomedicina."
+    },
+    {
+      "name": "Seguro de Estágios — UFPR",
+      "url": "https://prograp.ufpr.br/coafe/ue/seguro/",
+      "description": "Informações institucionais sobre seguro de acidentes pessoais."
+    }
+  ],
+  "semester_orientation": {
+    "semester": "2026-2",
+    "title": "Orientações — Estágio Supervisionado 2026-2",
+    "url": "",
+    "active": true,
+    "note": "Insira aqui o link do documento específico do semestre quando ele estiver disponível."
+  },
+  "contact": {
+    "course_email": "biomedicina@ufpr.br",
+    "course_phone": "(41) 3361-1744",
+    "internship_unit_email": "estagio@ufpr.br",
+    "internship_unit_phone": "(41) 3310-2675"
+  }
+}
